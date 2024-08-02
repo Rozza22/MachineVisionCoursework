@@ -1,0 +1,529 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{ImageHistograms}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d440f694cbdaced37c0b3942c0479c54}{%
+           family={HADAI},
+           familyi={H\bibinitperiod},
+           given={VANDANNI},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{d440f694cbdaced37c0b3942c0479c54}
+      \strng{fullhash}{d440f694cbdaced37c0b3942c0479c54}
+      \strng{bibnamehash}{d440f694cbdaced37c0b3942c0479c54}
+      \strng{authorbibnamehash}{d440f694cbdaced37c0b3942c0479c54}
+      \strng{authornamehash}{d440f694cbdaced37c0b3942c0479c54}
+      \strng{authorfullhash}{d440f694cbdaced37c0b3942c0479c54}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: (21/02/24)}
+      \field{title}{Histograms: How to Read Them and Use Them to Take Better Photos}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://phlearn.com/magazine/histograms-better-photos/
+      \endverb
+      \verb{url}
+      \verb https://phlearn.com/magazine/histograms-better-photos/
+      \endverb
+    \endentry
+    \entry{Jain}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0bb867ea9c360cbc658bd7a7e9ad9b7f}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Ramesh},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d185b0c985aad5e6bbd33d8dc2cf4fc1}{%
+           family={Kasturi},
+           familyi={K\bibinitperiod},
+           given={Ranagchar},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{c444890dff028141e1f7d4dd3e4692e7}
+      \strng{fullhash}{c444890dff028141e1f7d4dd3e4692e7}
+      \strng{bibnamehash}{c444890dff028141e1f7d4dd3e4692e7}
+      \strng{authorbibnamehash}{c444890dff028141e1f7d4dd3e4692e7}
+      \strng{authornamehash}{c444890dff028141e1f7d4dd3e4692e7}
+      \strng{authorfullhash}{c444890dff028141e1f7d4dd3e4692e7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Machine Vision}
+      \field{year}{1995}
+    \endentry
+    \entry{MATLABedge}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8f6823abd383a341f0d78ef38829bbbb}{%
+           family={MATLAB},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{fullhash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{bibnamehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{authorbibnamehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{authornamehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{authorfullhash}{8f6823abd383a341f0d78ef38829bbbb}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: (14/02/2024)}
+      \field{title}{Find edges in 2-D grayscale image}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://uk.mathworks.com/help/images/ref/edge.html#buo5g3w-1-BW
+      \endverb
+      \verb{url}
+      \verb https://uk.mathworks.com/help/images/ref/edge.html#buo5g3w-1-BW
+      \endverb
+    \endentry
+    \entry{MATLABGaussianMixtures}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8f6823abd383a341f0d78ef38829bbbb}{%
+           family={MATLAB},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{fullhash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{bibnamehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{authorbibnamehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{authornamehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{authorfullhash}{8f6823abd383a341f0d78ef38829bbbb}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: (01/03/2024)}
+      \field{title}{Foreground detection using Gaussian mixture models}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://uk.mathworks.com/help/vision/ref/vision.foregrounddetector-system-object.html
+      \endverb
+      \verb{url}
+      \verb https://uk.mathworks.com/help/vision/ref/vision.foregrounddetector-system-object.html
+      \endverb
+    \endentry
+    \entry{LHS}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a689ea8590497ca3fd048a9675d32109}{%
+           family={Olsson},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3a2a032620121d76f2cede0005c56cee}{%
+           family={Sandberg},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e09f6aef1d067296a0920bc93f3fc418}{%
+           family={Dahlblom},
+           familyi={D\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{fcc92b68dc91d6e6009e6de0697b0ad8}
+      \strng{fullhash}{fcc92b68dc91d6e6009e6de0697b0ad8}
+      \strng{bibnamehash}{fcc92b68dc91d6e6009e6de0697b0ad8}
+      \strng{authorbibnamehash}{fcc92b68dc91d6e6009e6de0697b0ad8}
+      \strng{authornamehash}{fcc92b68dc91d6e6009e6de0697b0ad8}
+      \strng{authorfullhash}{fcc92b68dc91d6e6009e6de0697b0ad8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Structural Safety}
+      \field{number}{1}
+      \field{title}{On Latin hypercube sampling for structural reliability analysis}
+      \field{volume}{25}
+      \field{year}{2003}
+      \field{pages}{47\bibrangedash 68}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1016/S0167-4730(02)00039-5
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/S0167-4730(02)00039-5
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/S0167-4730(02)00039-5
+      \endverb
+    \endentry
+    \entry{ReLU-Brownlee}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=915af163e2107106fced5dd3164d9a8e}{%
+           family={Brownlee},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{fullhash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{bibnamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authorbibnamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authornamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authorfullhash}{915af163e2107106fced5dd3164d9a8e}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: (24/04/2024)}
+      \field{title}{A Gentle Introduction to the Rectified Linear Unit (ReLU)}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
+      \endverb
+      \verb{url}
+      \verb https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
+      \endverb
+    \endentry
+    \entry{AlexNet}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c5e3a676e2ac1164b3afcd539c131fc9}{%
+           family={Krizhevsky},
+           familyi={K\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8d569d1d5b8b5a7836017a98b430f959}{%
+           family={Sutskever},
+           familyi={S\bibinitperiod},
+           given={Ilya},
+           giveni={I\bibinitperiod}}}%
+        {{hash=9a8750ccdb2a4cf14d2655face1ce016}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7b9ce2282d123f3a75ab23afec17231}
+      \strng{fullhash}{e7b9ce2282d123f3a75ab23afec17231}
+      \strng{bibnamehash}{e7b9ce2282d123f3a75ab23afec17231}
+      \strng{authorbibnamehash}{e7b9ce2282d123f3a75ab23afec17231}
+      \strng{authornamehash}{e7b9ce2282d123f3a75ab23afec17231}
+      \strng{authorfullhash}{e7b9ce2282d123f3a75ab23afec17231}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural Information Processing Systems}
+      \field{month}{01}
+      \field{title}{ImageNet Classification with Deep Convolutional Neural Networks}
+      \field{volume}{25}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1145/3065386
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1145/3065386
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1145/3065386
+      \endverb
+    \endentry
+    \entry{DeepLearningCNN}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e98656a5ee5e80bda67096d53bf76a74}{%
+           family={Dertat},
+           familyi={D\bibinitperiod},
+           given={Arden},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e98656a5ee5e80bda67096d53bf76a74}
+      \strng{fullhash}{e98656a5ee5e80bda67096d53bf76a74}
+      \strng{bibnamehash}{e98656a5ee5e80bda67096d53bf76a74}
+      \strng{authorbibnamehash}{e98656a5ee5e80bda67096d53bf76a74}
+      \strng{authornamehash}{e98656a5ee5e80bda67096d53bf76a74}
+      \strng{authorfullhash}{e98656a5ee5e80bda67096d53bf76a74}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: (25/03/2024)}
+      \field{title}{Applied Deep Learning - Part 4: Convolutional Neural Networks}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2
+      \endverb
+    \endentry
+    \entry{MATLABmaxPoolingLayer}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8f6823abd383a341f0d78ef38829bbbb}{%
+           family={MATLAB},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{fullhash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{bibnamehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{authorbibnamehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{authornamehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{authorfullhash}{8f6823abd383a341f0d78ef38829bbbb}
+      \field{extraname}{3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: (25/03/2024)}
+      \field{title}{Max pooling layer}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://uk.mathworks.com/help/deeplearning/ref/nnet.cnn.layer.maxpooling2dlayer.html
+      \endverb
+      \verb{url}
+      \verb https://uk.mathworks.com/help/deeplearning/ref/nnet.cnn.layer.maxpooling2dlayer.html
+      \endverb
+    \endentry
+    \entry{SernaImprovingFaceRepresentation}{article}{}
+      \name{author}{4}{}{%
+        {{hash=22769a418937f75695ac38b3232e26c0}{%
+           family={Serna},
+           familyi={S\bibinitperiod},
+           given={Ignacio},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8887f5e87e160432403a11a128b95849}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={Aythami},
+           giveni={A\bibinitperiod}}}%
+        {{hash=28ffabb68593a1a72ec0e2c1dd338d9c}{%
+           family={Fierrez},
+           familyi={F\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dd237e510deddfd477cdc0dc921f27b7}{%
+           family={Obradovich},
+           familyi={O\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{01edfe2cd5a4dbc4deef03ddb8b2d9b6}
+      \strng{fullhash}{4d20ddbf7c36170f710e85c7e94d1694}
+      \strng{bibnamehash}{4d20ddbf7c36170f710e85c7e94d1694}
+      \strng{authorbibnamehash}{4d20ddbf7c36170f710e85c7e94d1694}
+      \strng{authornamehash}{01edfe2cd5a4dbc4deef03ddb8b2d9b6}
+      \strng{authorfullhash}{4d20ddbf7c36170f710e85c7e94d1694}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0004-3702}
+      \field{journaltitle}{Artificial Intelligence}
+      \field{title}{Sensitive loss: Improving accuracy and fairness of face representations with discrimination-aware deep learning}
+      \field{volume}{305}
+      \field{year}{2022}
+      \field{pages}{103682}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.artint.2022.103682
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.artint.2022.103682
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.artint.2022.103682
+      \endverb
+    \endentry
+    \entry{NikonBlinkDetection}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2bcf69ff1b1b55cd20e105cc47305a30}{%
+           family={Foundation},
+           familyi={F\bibinitperiod},
+           given={ETICAS},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bcf69ff1b1b55cd20e105cc47305a30}
+      \strng{fullhash}{2bcf69ff1b1b55cd20e105cc47305a30}
+      \strng{bibnamehash}{2bcf69ff1b1b55cd20e105cc47305a30}
+      \strng{authorbibnamehash}{2bcf69ff1b1b55cd20e105cc47305a30}
+      \strng{authornamehash}{2bcf69ff1b1b55cd20e105cc47305a30}
+      \strng{authorfullhash}{2bcf69ff1b1b55cd20e105cc47305a30}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: (26/03/2024)}
+      \field{title}{NIKON’S FACE DETECTION BIAS}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://eticasfoundation.org/nikons-face-detection-bias/#:~:text=Nikon%20has%20failed%20to%20comment,thus%20confuses%20them%20for%20blinking.
+      \endverb
+      \verb{url}
+      \verb https://eticasfoundation.org/nikons-face-detection-bias/#:~:text=Nikon%20has%20failed%20to%20comment,thus%20confuses%20them%20for%20blinking.
+      \endverb
+    \endentry
+    \entry{BadDataMedium}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=af3bdf0a4bd6adb2984324bb9ab50c91}{%
+           family={Agrawal},
+           familyi={A\bibinitperiod},
+           given={Sanidhya},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{af3bdf0a4bd6adb2984324bb9ab50c91}
+      \strng{fullhash}{af3bdf0a4bd6adb2984324bb9ab50c91}
+      \strng{bibnamehash}{af3bdf0a4bd6adb2984324bb9ab50c91}
+      \strng{authorbibnamehash}{af3bdf0a4bd6adb2984324bb9ab50c91}
+      \strng{authornamehash}{af3bdf0a4bd6adb2984324bb9ab50c91}
+      \strng{authorfullhash}{af3bdf0a4bd6adb2984324bb9ab50c91}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: (26/03/2024)}
+      \field{title}{Characteristics of ‘Bad Data’ for Machine Learning and potential solutions?}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://medium.com/@sanidhyaagrawal08/characteristics-of-bad-data-for-machine-learning-and-potential-solutions-88760bfa1532
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@sanidhyaagrawal08/characteristics-of-bad-data-for-machine-learning-and-potential-solutions-88760bfa1532
+      \endverb
+    \endentry
+    \entry{WilsonInequityObjectDetection}{article}{}
+      \name{author}{3}{}{%
+        {{hash=581507d81f80c47a879627cc80313f54}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=98392893f850ec17a67d971c57631579}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Judy},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8be16479594021c7de7011fcb4b653d8}{%
+           family={Morgenstern},
+           familyi={M\bibinitperiod},
+           given={Jamie},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b51b17409524825b6d65017e1f42770e}
+      \strng{fullhash}{b51b17409524825b6d65017e1f42770e}
+      \strng{bibnamehash}{b51b17409524825b6d65017e1f42770e}
+      \strng{authorbibnamehash}{b51b17409524825b6d65017e1f42770e}
+      \strng{authornamehash}{b51b17409524825b6d65017e1f42770e}
+      \strng{authorfullhash}{b51b17409524825b6d65017e1f42770e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ArXiv}
+      \field{title}{Predictive Inequity in Object Detection}
+      \field{volume}{abs/1902.11097}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.48550/arXiv.1902.11097
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.1902.11097
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.1902.11097
+      \endverb
+    \endentry
+    \entry{BiasInMLHawaii}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=ddfcdc1d2e643cac1c73e1b135718c1c}{%
+           family={Yapo},
+           familyi={Y\bibinitperiod},
+           given={Adrienne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5a0f52c0880be40033a6a4bb3513092a}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={Joseph\bibnamedelima William},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=28d42e24df11fd2ffc9bb8686bc72ec4}{%
+           family={System\bibnamedelima Sciences},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Hawaii\bibnamedelimb International\bibnamedelima Conference},
+           giveni={H\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={on},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{eed51d6b03438ae299acffce62341460}
+      \strng{fullhash}{eed51d6b03438ae299acffce62341460}
+      \strng{bibnamehash}{eed51d6b03438ae299acffce62341460}
+      \strng{authorbibnamehash}{eed51d6b03438ae299acffce62341460}
+      \strng{authornamehash}{eed51d6b03438ae299acffce62341460}
+      \strng{authorfullhash}{eed51d6b03438ae299acffce62341460}
+      \strng{editorbibnamehash}{28d42e24df11fd2ffc9bb8686bc72ec4}
+      \strng{editornamehash}{28d42e24df11fd2ffc9bb8686bc72ec4}
+      \strng{editorfullhash}{28d42e24df11fd2ffc9bb8686bc72ec4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ethical Implications of Bias in Machine Learning}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.24251/HICSS.2018.668
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.24251/HICSS.2018.668
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.24251/HICSS.2018.668
+      \endverb
+    \endentry
+    \entry{AIsafetySummit}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=32706184b1d06d51ae7d5d48482832e2}{%
+           family={Milmo},
+           familyi={M\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c090c0b6280830a1a10c1ea3d1df2403}{%
+           family={Stacey},
+           familyi={S\bibinitperiod},
+           given={Kiran},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b7d431a0324229f314358e3d4ef8b6a}
+      \strng{fullhash}{1b7d431a0324229f314358e3d4ef8b6a}
+      \strng{bibnamehash}{1b7d431a0324229f314358e3d4ef8b6a}
+      \strng{authorbibnamehash}{1b7d431a0324229f314358e3d4ef8b6a}
+      \strng{authornamehash}{1b7d431a0324229f314358e3d4ef8b6a}
+      \strng{authorfullhash}{1b7d431a0324229f314358e3d4ef8b6a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{The Guardian}
+      \field{title}{Five takeaways from UKs AI safety summit at Bletchley Park}
+      \field{year}{2023}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

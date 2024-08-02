@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Task 1: Introduction to Machine Vision}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Lab Session 1 - Part I}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Lab Session 1 - Part II}{4}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Task 2: Optical Flow Estimation Algorithm}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Finding Corner Points and Applying the Optical Flow Estimation Algorithm}{9}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Finding optical flow of the pixels between two frames}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Tracking of single point using optical flow algorithm in a video}{9}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Task 3: Automatic Detection of Moving Objects in a Sequence of Video Frames}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Part I: Frame differencing approach}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Part II: with the Gaussian mixture approach}{13}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Task 4: Robot Treasure Hunting}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Binarisation and object detection}{15}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Identifying arrows}{16}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Find the next object}{16}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Visualisation of the solution}{17}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Task 5: Image Classification with a Convolutional Neural Network (CNN)}{19}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Designing and Training a CNN}{19}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Improving the performance of the CNN Algorithm}{19}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Ethics in Computer Vision}{26}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Bibliography}{28}{section.6}%
+\contentsline {section}{\numberline {A}Exercise 2 code}{30}{appendix.A}%
+\contentsline {section}{\numberline {B}Exercise 3 code}{33}{appendix.B}%
+\contentsline {section}{\numberline {C}Exercise 4 code - Arrow finding}{41}{appendix.C}%
+\contentsline {section}{\numberline {D}Exercise 5 code - CNNs}{48}{appendix.D}%
